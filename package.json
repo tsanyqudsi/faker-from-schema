@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Generate faker data from a JSON schema",
   "author": "Muhammad Tsany Qudsi",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "keywords": [
     "faker",
     "json",
